@@ -1,0 +1,17 @@
+html { 
+ 
+	 background: url(http://www.hotelreginasorrento.it/_img_key/43-5img-g-reservation_hotel_sorrento.jpg) no-repeat center center fixed; 
+ 
+	 -webkit-background-size: cover;
+  
+	 -moz-background-size: cover;
+  
+	 -o-background-size: cover;
+  
+	 background-size: cover;
+
+}
+#ceva
+{
+	color:white;
+}
